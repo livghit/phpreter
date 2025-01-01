@@ -1,1 +1,1 @@
-# Building a parser using PHP 8.4
+# Building an interpreter using PHP 8.4
