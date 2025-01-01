@@ -1,6 +1,15 @@
 {
-    "require-dev": {
+    "name": "livghit/phpreter",
+    "description": "A parser written with php",
+    "type": "project",
+    "require": {
         "pestphp/pest": "^3.7"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Livghit\\Phpreter\\": "src/"
+        }
     },
     "config": {
         "allow-plugins": {
